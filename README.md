@@ -1,6 +1,6 @@
 ## v1.0.0
 
-**Dijon - Path of Exile Level Up!**
+**Dijon - mustard Level Up!**
 
 ---
 
