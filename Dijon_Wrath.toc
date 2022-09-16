@@ -1,0 +1,14 @@
+## Interface: 30400
+## Version: 1.0.0
+## Title: Dijon Level Up!
+## Author: Phishie
+## Notes: An addon for mustard lovers, not phishie at all.
+
+## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
+## X-Website: 
+## X-Curse-Project-ID: 
+## X-Tukui-ProjectID: 
+## X-Wago-ID: 
+## X-WoWI-ID: 
+
+main.lua
